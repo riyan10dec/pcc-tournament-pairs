@@ -8,24 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/dambrisco/swiss-pairing.git"
+    "url": "git+ssh://git@https://github.com/riyan10dec/pcc-tournament-pairs"
   },
   "keywords": [
     "swiss",
     "pairing",
     "pairings",
     "tournament",
-    "bracket",
-    "group",
-    "stage",
-    "groupstage"
+    "pcc"
   ],
-  "author": "Dan Ambrisco",
+  "author": "Riyan Hutomo",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dambrisco/swiss-pairing/issues"
-  },
-  "homepage": "https://github.com/dambrisco/swiss-pairing#readme",
+  "homepage": "https://github.com/riyan10dec/pcc-tournament-pairs#readme",
   "dependencies": {
     "edmonds-blossom": "^1.0.0"
   }
